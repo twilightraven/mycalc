@@ -1,4 +1,5 @@
-# by WW, student of UoPeople, CS-1101, March 2018.
+# by WW
+# March 2018.
 
 #get the first number "num1" that is not a 0. If the number is invalid, the program will display an error. 
 num1 = float(input("Please enter a first number that is not 0: "))
